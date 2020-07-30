@@ -32,8 +32,6 @@ pygame.display.set_icon(icon)
 # player
 playerimg=pygame.image.load(r"C:\Users\This pc\Downloads\spaceship.png")
 
-# width ka half=400 therefore 370 means along x axis player almost 
-# screen ke beech me hoga nd along y axis border s thod upr hoga
 playerX= 400
 playerY= 480
 playerX_change=0
