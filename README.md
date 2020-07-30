@@ -1,5 +1,5 @@
 # MyProject
-Learning basic stuff from python and creating project
+Learning basic stuff from youtube and creating project
 
 First project: Space invaders game
 
