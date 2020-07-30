@@ -70,7 +70,7 @@ def gameover(score_value):
         screen.blit(over_high,(200,200))
     over_1=font1.render(f" Your Score : {score_value}",True,red)
     over_2=font1.render(f"High Score : {int(hiscore)}",True,red)
-    over=font1.render(f"Saanp mar gya :( chl ek dafa phir khelte h(Press ENTER)",True,red)
+    over=font1.render(f"OOPS!! GAME OVER..Let's play again! (Press ENTER)",True,red)
     screen.blit(over,(65,250))
     screen.blit(over_1,(0,0))
     screen.blit(over_2,(550,0))
