@@ -91,6 +91,8 @@ def welcome():
                 running=False
             if event.type==pygame.KEYDOWN:
                 if event.key==pygame.K_SPACE:
+                    mixer.music.load(r"F:\Lost-Jungle_Looping.mp3")
+                    mixer.music.play(-1)
                     gameloop()
         
         pygame.display.update()
@@ -183,6 +185,8 @@ def gameloop():
             col=collision(apple_x,apple_y,snake_x,snake_y)
 
             if col:
+                col_sound=mixer.Sound(r"C:\Users\This pc\Downloads\275015__wadaltmon__bite-apple.wav")
+                col_sound.play()
                 score_value+=1
                 snake_length+=5
                 # we increased by 5 bcoz these are coordinates
