@@ -1,6 +1,6 @@
 # MyProject
 Learning basic stuff from youtube and creating project
 
-First project: Space invaders game
+Project-1: Space invaders game
 
-Second project: Snake Xenzia game
+Project-2: Snake Xenzia game
