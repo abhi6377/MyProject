@@ -4,7 +4,6 @@ from tkinter import messagebox,font,colorchooser,filedialog
 import os
 
 main_application=tk.Tk()
-# main_application.geometry('1200*800')
 main_application.title('TEXT EDITOR')
 
 #  main menu
