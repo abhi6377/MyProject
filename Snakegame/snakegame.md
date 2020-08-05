@@ -1,1 +1,1 @@
-This is my second game project : Snake Xenzia
+This is my 2nd game project : Snake Xenzia
