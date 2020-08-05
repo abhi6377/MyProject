@@ -1,8 +1,10 @@
 # MyProject
 Learning basic stuff from youtube and creating project
 
-Project-1: Space invaders game
+Project-1: Employee Managemnt system
 
-Project-2: Snake Xenzia game
+Project-2: Space invaders game
 
-Project-3: Text editor
+Project-3: Snake Xenzia game
+
+Project-4: Text editor
